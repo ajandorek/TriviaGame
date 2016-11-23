@@ -1,0 +1,22 @@
+.gameBody {
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	background-color: lightgrey;
+	height: 500px;
+}
+
+.option:hover {
+	background-color: lightblue;
+}
+
+body{
+	background-image: url("../images/footer_lodyas.png") ;
+}
+
+img{
+	display: block;
+	width: 400px;
+	margin: 0 auto;
+}
